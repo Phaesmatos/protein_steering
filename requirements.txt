@@ -1,0 +1,3 @@
+transformers>=4.45,<5
+safetensors>=0.4
+matplotlib>=3.8
